@@ -25,7 +25,7 @@ The application is designed with privacy in mind.
 
 The complete privacy policy is available at:
 
-**[Read lCalc Privacy Policy](https://YOUR-USERNAME.github.io/lcalc-privacy-policy/)**
+**[Read lCalc Privacy Policy](https://lRadha.github.io/lcalc-privacy-policy/)**
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
