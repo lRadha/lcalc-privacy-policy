@@ -53,8 +53,8 @@ The privacy policy will be updated whenever the application's features or privac
 For privacy-related questions or concerns:
 
 - **Application:** lCalc
-- **Developer:** Your Developer Name
-- **Email:** YOUR_EMAIL@example.com
+- **Developer:** Laxmikant
+- **Email:** lkrdkrishnan@gmail.com
 
 ---
 
